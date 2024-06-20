@@ -1,8 +1,5 @@
 #                                         FRESHCO-HYPER-MARKET
 
-### DEMO LINK
-https://docs.google.com/spreadsheets/d/1o8YaZQMNz-Cpcd3Mk-HW701yP_5AqzA4/edit?usp=drive_link&ouid=102812110825712291326&rtpof=true&sd=true
-
 ### TABLE OF CONTENT
 Worksheet1 - Transaction data
 Worksheet2 - Order level analysis
