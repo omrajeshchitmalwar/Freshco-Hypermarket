@@ -1,7 +1,7 @@
 #                                         FRESHCO-HYPER-MARKET
 
 ### TABLE OF CONTENT
-Worksheet1 - Transaction data
+Worksheet1 - Transaction data <br>
 Worksheet2 - Order level analysis
 Worksheet3 - Completion rate analysis
 Worksheet4 - Customer level analysis
