@@ -15,7 +15,8 @@ Datasource - Kaggle and Google Dataset search
 
 ### RESULT OF VISUALIZATIONS
 ![Screenshot 2024-01-05 201606](https://github.com/omrajeshchitmalwar/FRESHCO-HYPER-MARKET/assets/92293388/7f8301a7-975b-4cff-bd02-7efd10d7e493) <br>
-![Screenshot 2024-01-05 201543](https://github.com/omrajeshchitmalwar/FRESHCO-HYPER-MARKET/assets/92293388/f94820fb-985a-412b-89cc-f59a2cd6baba)
+![Screenshot 2024-01-05 201543](https://github.com/omrajeshchitmalwar/FRESHCO-HYPER-MARKET/assets/92293388/f94820fb-985a-412b-89cc-f59a2cd6baba) <br>
+C:\Users\91960\OneDrive\Pictures\Screenshots
 
 ### TOOLS AND TECHNIQUES
 MS EXCEL <br>
